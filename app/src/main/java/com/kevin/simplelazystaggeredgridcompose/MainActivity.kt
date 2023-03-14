@@ -1,4 +1,4 @@
-package com.plcoding.simplelazystaggeredgridcompose
+package com.kevin.simplelazystaggeredgridcompose
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
