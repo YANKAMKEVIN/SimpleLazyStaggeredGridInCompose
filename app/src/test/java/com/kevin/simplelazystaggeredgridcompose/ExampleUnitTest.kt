@@ -1,4 +1,4 @@
-package com.plcoding.lazystaggeredgridcompose
+package com.plcoding.simplelazystaggeredgridcompose
 
 import org.junit.Test
 

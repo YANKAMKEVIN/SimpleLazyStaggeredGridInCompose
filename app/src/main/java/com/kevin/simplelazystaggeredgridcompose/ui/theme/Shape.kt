@@ -1,4 +1,4 @@
-package com.plcoding.lazystaggeredgridcompose.ui.theme
+package com.plcoding.simplelazystaggeredgridcompose.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

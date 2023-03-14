@@ -1,4 +1,4 @@
-package com.plcoding.lazystaggeredgridcompose
+package com.plcoding.simplelazystaggeredgridcompose
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,17 +10,13 @@ import androidx.compose.foundation.lazy.staggeredgrid.LazyVerticalStaggeredGrid
 import androidx.compose.foundation.lazy.staggeredgrid.StaggeredGridCells
 import androidx.compose.foundation.lazy.staggeredgrid.items
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Surface
-import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
-import com.plcoding.lazystaggeredgridcompose.ui.theme.LazyStaggeredGridComposeTheme
+import com.plcoding.simplelazystaggeredgridcompose.ui.theme.LazyStaggeredGridComposeTheme
 import kotlin.random.Random
 
 @OptIn(ExperimentalFoundationApi::class)

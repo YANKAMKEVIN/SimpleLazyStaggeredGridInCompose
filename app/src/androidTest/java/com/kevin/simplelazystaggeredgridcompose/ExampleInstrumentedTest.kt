@@ -1,4 +1,4 @@
-package com.plcoding.lazystaggeredgridcompose
+package com.plcoding.simplelazystaggeredgridcompose
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

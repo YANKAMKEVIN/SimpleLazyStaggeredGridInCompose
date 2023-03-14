@@ -1,4 +1,4 @@
-package com.plcoding.lazystaggeredgridcompose.ui.theme
+package com.plcoding.simplelazystaggeredgridcompose.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -17,14 +17,6 @@ private val LightColorPalette = lightColors(
     primaryVariant = Purple700,
     secondary = Teal200
 
-    /* Other default colors to override
-    background = Color.White,
-    surface = Color.White,
-    onPrimary = Color.White,
-    onSecondary = Color.Black,
-    onBackground = Color.Black,
-    onSurface = Color.Black,
-    */
 )
 
 @Composable
